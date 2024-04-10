@@ -1,0 +1,1 @@
+import{b as r,j as s,C as n}from"./index-5a1058a1.js";const a=()=>{const{id:e}=r();return s.jsx(s.Fragment,{children:s.jsxs(n,{children:[s.jsxs("h1",{className:"text-heading_1",children:["single product: ",e]}),s.jsx("h2",{children:"single product page"})]})})};export{a as default};
